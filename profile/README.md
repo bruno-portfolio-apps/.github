@@ -32,8 +32,6 @@ Server Driven UI research for iOS applications
 
 Tech: SwiftUI, Backend APIs, SDUI
 
-https://www.youtube.com/watch?v=aFmdiYHURLY
-
 ## 🎮 ML Game
 
 macOS game using Machine Learning for input
